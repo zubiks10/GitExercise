@@ -2,5 +2,5 @@ rice
 beans
 vegetables
 oranges
-
+fruits
 Thank God
