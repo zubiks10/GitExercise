@@ -9,7 +9,6 @@ cucumber
 Jack fruit
 passion fruit
 lychee
-mango 
 bananas
 pear
 tomatoes
@@ -41,5 +40,18 @@ Grape
 Guanabana
 honeydue melon
 Huckleberry
+Jackalberry
+Kiwi
+Kiwi berries
+lime
+lemon
+logan berry
+lady apple
+lingan berries
+mango 
+manderins
+nectarine
+nutmeg fruit
+oranges 
 
 
