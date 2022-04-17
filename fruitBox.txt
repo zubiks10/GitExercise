@@ -54,4 +54,8 @@ nectarine
 nutmeg fruit
 oranges 
 lychee
+fruit 
+Raspberrry
+strawberry
+gooseberry
 
